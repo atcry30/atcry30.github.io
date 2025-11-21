@@ -1,0 +1,2 @@
+public/images/hero.gif filter=lfs diff=lfs merge=lfs -text
+dist/images/hero.gif filter=lfs diff=lfs merge=lfs -text
